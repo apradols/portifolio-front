@@ -2,7 +2,7 @@
 
 ### Esse projeto foi desenvolvido durantes as aulas dos cursos de HTML e CSS
 
-![image](site.png)
+![image]
 
 ## Tecnologias utilizadas:
 
